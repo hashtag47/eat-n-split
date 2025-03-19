@@ -1,1 +1,1 @@
-# landing-page
+# eat-n-split
